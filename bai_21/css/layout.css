@@ -1,0 +1,113 @@
+.layout1 {
+    background-color: rgb(237, 169, 68);
+}
+.header {
+    border: 1px solid ;
+    text-align: center;
+    width: auto;
+    height: 30px;
+}
+.section {
+    border: 1px solid;
+    width: auto;
+    height: 100px;
+}
+.footer {
+    border: 1px solid ;
+    text-align: center;
+    width: auto;
+    height: 30px;
+}
+
+
+.layout2 {
+    background-color: aquamarine;
+}
+.tam {
+    
+    width: auto;
+    height: 100px;
+}
+.nav2 {
+    width:30%;
+    height: 100px;
+    float:left;
+    border: 1px solid ;
+}
+.section2 {
+    float:right;
+    border: 1px solid;
+    width: 30%;
+    height: 100px;
+}
+
+
+.layout3 {
+    background-color: rgb(220, 191, 130);
+}
+.menu3 {
+    border: 1px solid ;
+    text-align: center;
+    width: auto;
+    height: 30px;
+}
+
+
+.layout4 {
+    background-color: rgb(120, 120, 239);
+}
+.header4 {
+    border: 1px solid ;
+    width: auto;
+    height: 30px;
+}
+.tam4 {
+    display: flex;
+    width: auto;
+    height: 100px;
+}
+.section4 {
+    float:right;
+    border: 1px solid;
+    width: 70%;
+    height: 100px;
+}
+.article {
+    border: 1px solid;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 70px;
+    background-color: blanchedalmond;
+}
+.footer4 {
+    border: 1px solid ;
+    width: auto;
+    height: 30px;
+}
+
+
+.layout5 {
+    background-color: rgb(30, 202, 36);
+}
+.nav5 {
+    border: 1px solid ;
+    width: auto;
+    height: 30px;
+}
+
+
+.layout6 {
+    background-color: rgb(233, 211, 132);
+}
+.tam6 {
+    display: flex;
+    width: auto;
+    height: 170px;
+    border: 1px solid;
+}
+.section6 {
+    float:left;
+    border: 1px solid;
+    width: 70%;
+    height: 170px;
+}
